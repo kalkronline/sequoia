@@ -1,0 +1,1 @@
+my awesomewm config
